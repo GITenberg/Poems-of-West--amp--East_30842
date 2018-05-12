@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34850
     wikipedia: http://en.wikipedia.org/wiki/Vita_Sackville-West
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30842#Poems-of-West--amp--East
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
 identifiers:
