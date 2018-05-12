@@ -1,0 +1,32 @@
+_repo: Poems-of-West--amp--East_30842
+_version: 0.1.0
+alternative_title: Poems of West and East
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sackville-West, V. (Victoria Mary)
+    aliases:
+    - Sackville-West, Vita
+    - Nicolson, Victoria Mary Sackville-West
+    - Sackville-West, Victoria Mary, Hon.
+    birthdate: 1892
+    deathdate: 1962
+    gutenberg_agent_id: '34850'
+    url: http://www.gutenberg.org/2009/agents/34850
+    wikipedia: http://en.wikipedia.org/wiki/Vita_Sackville-West
+description: ''
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: Poems of West & East
+url: http://www.gutenberg.org/ebooks/30842
